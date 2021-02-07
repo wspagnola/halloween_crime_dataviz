@@ -5,7 +5,21 @@ NYU Statistics Club: Halloween Visualization Contest
 
 '
 
-# LF will beplaced by CRLF in data/*.csv ???
+
+# Note may want to learn rSocrata to update data automatically 
+
+# Should look into git Large File Storage 
+
+#remote: warning: GH001: Large files detected. 
+#You may want to try Git Large File Storage - https://git-lfs.github.com.
+#remote: warning: See http://git.io/iEPt8g for more information.
+
+#remote: warning: File data/assault.csv is 53.69 MB;
+#this is larger than GitHub's recommended maximum file size of 50.00 MB
+
+
+# Some warning about carriage returns when pushing CSV files to remote repo
+# LF will be placed by CRLF in data/*.csv ???
 
 
 #setwd("Desktop/halloween")
